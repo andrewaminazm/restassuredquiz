@@ -1,0 +1,8 @@
+Validation Report:
+ID is not null: Pass
+CPU model matches: Pass
+Price matches: Pass
+CreatedAt is not null: Pass
+Hard disk size matches: Pass
+Year matches: Pass
+Name matches: Pass
