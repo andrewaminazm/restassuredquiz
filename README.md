@@ -1,5 +1,5 @@
-# restassuredquiz
-This is a Rest Assured testing framework using Java, testNG, POJO, concepts
+
+This is a Rest Assured testing framework using Java, testNG,
 
 Installation
 Just do a maven install (usually IDE take care of dowloading dependancies when you import eg: Eclipse)
