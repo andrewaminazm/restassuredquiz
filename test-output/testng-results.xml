@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-28T12:44:48 AST" name="Default suite" finished-at="2024-06-28T12:44:51 AST" duration-ms="2344">
+  <suite started-at="2024-07-05T23:15:28 AST" name="Default suite" finished-at="2024-07-05T23:15:31 AST" duration-ms="2480">
     <groups>
     </groups>
-    <test started-at="2024-06-28T12:44:48 AST" name="Default test" finished-at="2024-06-28T12:44:51 AST" duration-ms="2344">
-      <class name="tests.DeviceApiTest">
-        <test-method signature="addDeviceTest()[pri:0, instance:tests.DeviceApiTest@79b06cab]" started-at="2024-06-28T12:44:48 AST" name="addDeviceTest" finished-at="2024-06-28T12:44:51 AST" duration-ms="2316" status="PASS">
+    <test started-at="2024-07-05T23:15:28 AST" name="Default test" finished-at="2024-07-05T23:15:31 AST" duration-ms="2480">
+      <class name="tests.putrequest">
+        <test-method signature="updateUser()[pri:0, instance:tests.putrequest@4fe767f3]" started-at="2024-07-05T23:15:28 AST" name="updateUser" finished-at="2024-07-05T23:15:31 AST" duration-ms="2459" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addDeviceTest -->
-      </class> <!-- tests.DeviceApiTest -->
+        </test-method> <!-- updateUser -->
+      </class> <!-- tests.putrequest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
